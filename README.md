@@ -37,3 +37,5 @@ Jerónimo Racero Filter ==> https://github.com/jeronimo358/PHP.git => Hotel
 Axel Alfredo Aarón Ruiz Calderón ==> https://github.com/AxelRuizC/HLC.git ==> Empresa
 
 Francisco Manuel Gutierrez Alvarez ==> https://github.com/Francisco663800/home.git => Gimnasio
+
+Alejandro Ojeda Morillo ==> https://github.com/alexojeda12/HLC.git => Elden ring
